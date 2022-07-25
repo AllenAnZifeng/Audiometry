@@ -1,12 +1,12 @@
 ## IBEHS 3I06 Research Project
 
-| Evaluation Criteria                        | Evaluated By:     | Weight | Done |
-|--------------------------------------------|-------------------|--------|------|
-| General knowledge on hearing losses        | Writing           | 10     | [X]  |
-| Understanding of existing practices        | Writing           | 10     | [X]  |
-| Requirement spec and UI design             | Report and mockup | 20     | [ ]  |
-| Programming                                | App development   | 40     | [ ]  |
-| research ethics and working with end users | User study        | 20     | [ ]  |
+| Evaluation Criteria                        | Evaluated By:     | Weight | Done    |
+|--------------------------------------------|-------------------|--------|---------|
+| General knowledge on hearing losses        | Writing           | 10     | &check; |
+| Understanding of existing practices        | Writing           | 10     | &check; |
+| Requirement spec and UI design             | Report and mockup | 20     |         |
+| Programming                                | App development   | 40     |         |
+| research ethics and working with end users | User study        | 20     |         |
 
 
 The goal is to implement and evaluate a smartphone based audiometry hearing test app. The tasks include:
