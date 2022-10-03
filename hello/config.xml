@@ -31,7 +31,6 @@
         <icon src="www/res/ios/icon-76@2x.png" width="152" height="152" />
         <!-- Spotlight Icon -->
         <icon src="www/res/ios/icon-40.png" width="40" height="40" />
-        <icon src="www/res/ios/icon-40@2x.png" width="80" height="80" />
         <!-- iOS 6.1 -->
         <!-- iPhone / iPod Touch -->
         <icon src="www/res/ios/icon.png" width="57" height="57" />
